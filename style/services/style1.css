@@ -1,0 +1,40 @@
+table,
+td,
+th,
+tfoot {
+  color: white;
+  border: solid 1px white;
+  padding: 5px;
+}
+
+th {
+  background-color: #999;
+}
+
+caption {
+  font-size: x-large;
+}
+
+colgroup {
+  background: white;
+}
+
+.coluna1 {
+  background: black;
+  text-align-last: left;
+}
+
+.coluna2 {
+  background: rgb(0, 0, 0);
+  text-align-last: left;
+}
+
+.coluna3 {
+  background: rgb(0, 0, 0);
+  text-align-last: left;
+}
+
+.coluna4 {
+  background: black;
+  text-align-last: left;
+}
