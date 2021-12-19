@@ -24,7 +24,7 @@ html, body{
     position: relative;
     min-height: 100%;
     padding-bottom: 220px;  
-    background-image: url(../img/bg_topo.png);
+    background-image: url(../img/fundo.gif);
 }
 
 /*------------------------------------*\
@@ -83,7 +83,7 @@ a {
 }
 
 .topo {
-  background-image: url(../img/bg_topo.png);
+  background-image: url(../img/fundo.gif);
   padding-top: 20px;
   padding-bottom: 20px;
 }
@@ -280,7 +280,7 @@ input[type="checkbox"]:checked ~ nav{
 }
 
 .content {
-  background-image: url(../img/bg_topo.png);
+  background-image: url(../img/fundo.gif);
   padding-top: 40px;
   padding-bottom: 30px;  
 }
@@ -353,7 +353,7 @@ input[type="checkbox"]:checked ~ nav{
 /*------FOOTER------*/
 
 .footer {
-  background-image: url(../img/bg_topo.png);
+  background-image: url(../img/fundo.gif);
   position: absolute;
   width: 100%;
   left:0;
@@ -456,9 +456,9 @@ input[type="checkbox"]:checked ~ nav{
   font-family: futurapt, sans-serif;
 }
 
-.fa-envelope {
+.fa-instagram {
   src="img";
-  color: green;
+  color: pink;
   font-size: 20px;
 }
 
